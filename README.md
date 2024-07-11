@@ -1,14 +1,20 @@
-## Hi there Im a programming student from Venezuela
+## ✌ Hi there Im a programming student from Venezuela
 
 <br>
 
-- Pronouns:He/Him
+- 🐺 Pronouns:He/Him
 
-- I'm currently learning Python and Git
+- 🦊 I'm currently learning Python and Git
 
-- I consider myself a Femboy Programmer
+- 🌈 I consider myself a Femboy Programmer 🏳️‍🌈
 
 ![speech-bubbling-word-bubbling](https://github.com/TheFoxyKing/TheFoxyKing/assets/108497880/1ddfd1e0-918a-44ab-9915-368afd4e1b77)
+
+<div align="center">
+
+<a href="https://dev.to/thefoxyking"><img alt="Website" src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white"></a>
+
+</div>
 
 
 <!--
