@@ -1,7 +1,5 @@
 ## ✌ Hi there Im a programming student from Venezuela
 
-<br>
-
 - 🐺 Pronouns:He/Him
 
 - 🦊 I'm currently learning Python and Git
