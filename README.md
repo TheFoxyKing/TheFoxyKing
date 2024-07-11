@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there Im a programming student from Venezuela
+
+<br>
+
+- Pronouns:He/Him
+
+- I'm currently learning Python and Git
+
+- I consider myself a Femboy Programmer
+
+![speech-bubbling-word-bubbling](https://github.com/TheFoxyKing/TheFoxyKing/assets/108497880/1ddfd1e0-918a-44ab-9915-368afd4e1b77)
+
 
 <!--
 **TheFoxyKing/TheFoxyKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
