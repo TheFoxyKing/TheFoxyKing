@@ -12,6 +12,8 @@
 
 <a href="https://dev.to/thefoxyking"><img alt="Website" src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white"></a>
 
+<img src="https://img.shields.io/badge/Made%20for-Femboys-pink"/>
+
 </div>
 
 
